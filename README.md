@@ -5,7 +5,7 @@ Fill forms quickly with dynamic information
 ## Installation
 - Download / Clone / Fork this repo
 - Follows standard Chrome extension naming conventions
-- Install in chrome using [https://developer.chrome.com/extensions/getstarted#unpacked]()
+- Install in chrome using [https://developer.chrome.com/extensions/getstarted#unpacked](https://developer.chrome.com/extensions/getstarted#unpacked)
 
 ## Usage
 - The forms that are to be filled should have form label `innerText` as Keys in the JSON input. The value however changes based on form field type.
